@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 510">
+  <defs>
+    <linearGradient id="metal" x1="0" y1=".3" x2="1" y2=".6">
+      <stop stop-color="#15161a"/><stop offset=".16" stop-color="#32313a"/><stop offset=".29" stop-color="#a5a0a1"/><stop offset=".39" stop-color="#4d4a51"/><stop offset=".52" stop-color="#232128"/><stop offset=".78" stop-color="#0e1017"/><stop offset=".92" stop-color="#37313a"/><stop offset="1" stop-color="#17161b"/>
+    </linearGradient>
+    <linearGradient id="lacquer" x1="0" y1=".2" x2=".95" y2=".85">
+      <stop stop-color="#ffd0ca"/><stop offset=".13" stop-color="#f2535d"/><stop offset=".4" stop-color="#bc253c"/><stop offset=".74" stop-color="#651024"/><stop offset="1" stop-color="#250a16"/>
+    </linearGradient>
+    <linearGradient id="cheek" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#601125"/><stop offset=".45" stop-color="#d64150"/><stop offset=".57" stop-color="#9b1c30"/><stop offset="1" stop-color="#2e101e"/></linearGradient>
+    <linearGradient id="ring"><stop stop-color="#17161b"/><stop offset=".12" stop-color="#47434c"/><stop offset=".26" stop-color="#a49ca0"/><stop offset=".37" stop-color="#554d57"/><stop offset=".62" stop-color="#211d26"/><stop offset=".87" stop-color="#101017"/><stop offset="1" stop-color="#4c3540"/></linearGradient>
+    <linearGradient id="trim"><stop stop-color="#4f101e"/><stop offset=".3" stop-color="#ef6570"/><stop offset=".6" stop-color="#a6233b"/><stop offset="1" stop-color="#380d1c"/></linearGradient>
+  </defs>
+  <!-- Carved head and the swept mane share the outline of a single chess piece. -->
+  <path d="M95 375c-4-64 32-95 57-134 9-14 12-28 13-44l-37 17-32 20-36-2-25-23 5-35 26-35 28-44 13-34 22-13 7-34 24 24 37-24 1 35c44 10 83 43 110 84 47 74 48 163 16 238l-16 14z" fill="url(#metal)" stroke="#71636a" stroke-width="1.3"/>
+  <path d="m194 51 2-36-31 34-15 8-19-29-5 26-19 10-18 48-19 29-30 35-4 30 20 17 39 2 23-13 34-14 29-28 20-42-1-33 17-26Z" fill="url(#lacquer)"/>
+  <path d="m135 21 17 22-10 12-9-7z" fill="#29212b"/><path d="m188 27-1 21-18 10z" fill="#4c1e2a"/>
+  <path d="M179 65c14 1 29 8 42 20 42 40 69 88 76 145-7-49-37-94-81-120l-19 30-17 24 7-48-27-20z" fill="url(#cheek)"/>
+  <path d="M222 74c77 43 125 131 118 221l-13-11 4 30-12-9-5 36-5-19-9 39-10-6c20-95-4-181-76-264z" fill="#201e28" stroke="#6d535c" stroke-width="1.2"/>
+  <g fill="none" stroke-linecap="round"><path d="M221 80c58 40 100 108 109 174M230 99c44 35 74 84 86 130M245 128c33 33 55 72 63 111" stroke="#6a545d" opacity=".62" stroke-width="2"/><path d="M211 75c51 31 87 78 105 130" stroke="#d8394d" stroke-width="2" opacity=".8"/></g>
+  <path d="m74 147 32-40 21-16 20 4-24 16-6 17-31 18-31 35z" fill="#e54553" opacity=".87"/>
+  <path d="m111 109 28-10-12 18-15 5-7-4z" fill="#17151d"/><path d="m116 108 13-4-6 7-8 1z" fill="#ffe8e0"/>
+  <path d="m37 194 26-21 21 2-9 7-20 4-8 15-8 5z" fill="#581626"/><path d="m59 181 14-5-5 7-11 2z" fill="#170f16"/>
+  <path d="m38 208 24 12 32-6 28-16 32-8 24-21-16 29-41 19-24 17-36-2z" fill="#29171e"/><path d="M52 210c19 6 30 4 46-3" fill="none" stroke="#eb5963" stroke-width="2"/>
+  <path d="M172 190c1 38-17 68-36 97-16 24-24 45-26 78l27 1c-1-36 9-58 28-88 19-29 28-57 29-92l5-27z" fill="url(#cheek)"/>
+  <path d="M196 135c6 71-10 116-35 154-15 23-21 42-21 69" fill="none" stroke="#eee3de" opacity=".45" stroke-width="1.6"/>
+  <path d="M96 355c40 7 141 9 207-1l4 18c-70 11-164 9-215-1z" fill="url(#trim)"/>
+  <path d="M91 369c56 6 157 9 217-1l16 15-4 13c-73 12-171 11-243 0l-3-12z" fill="url(#ring)" stroke="#756871"/>
+  <path d="M88 396c61 8 147 9 218 0l-3 15 18 28c-68 13-177 13-243 0l17-27z" fill="url(#metal)"/>
+  <path d="M80 431c61 11 164 14 236-1l11 10c-68 16-186 15-256 2z" fill="url(#trim)"/>
+  <path d="M72 439c65 12 185 13 255-1l16 14 7 28c-74 20-216 21-295 1l7-29z" fill="url(#ring)" stroke="#665963"/>
+  <path d="M55 478c76 18 217 18 295-1l-6 12c-64 18-212 20-285 1z" fill="#15131a" stroke="#69515c"/>
+  <g fill="none" stroke="#e1cfd0" opacity=".55"><path d="M82 384c50 8 167 13 231 0M70 454c76 14 194 14 264-1M68 479c76 15 186 15 267-1"/></g>
+</svg>
