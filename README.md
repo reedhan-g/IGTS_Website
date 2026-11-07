@@ -4,7 +4,7 @@ The Strategy Room is a website concept for the Indian Game Theory Society at Del
 
 ## The Playroom
 
-**Last Hex** is the featured game. Two players take turns filling a board of 21 hexagons. Under the classic rules, the player with the lower total around the last empty hex wins. [Play Last Hex](https://reedhan-g.github.io/Last_Hex_IGTS/) · [View the game source](https://github.com/reedhan-g/Last_Hex_IGTS)
+**Last Hex** is the featured game. Two players take turns filling a board of 21 hexagons. Under the classic rules, the player with the lower total around the last empty hex wins. [Play Last Hex](https://last-hex-igts.onrender.com/) · [View the game source](https://github.com/reedhan-g/Last_Hex_IGTS)
 
 Chess, Prisoner’s Dilemma, and Nim appear as *Coming soon* cards.
 
